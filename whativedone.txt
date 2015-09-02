@@ -1,0 +1,4 @@
+Download simplecv
+Download sudo pip install svgwrite
+Download libfreenect and python libfreenect stuff
+Download VLC media player
